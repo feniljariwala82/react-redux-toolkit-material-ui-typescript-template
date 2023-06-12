@@ -1,11 +1,11 @@
-## React Redux Toolkit Mantine TypeScript Repository
+## React Redux Toolkit Material UI TypeScript Repository
 
-This repository is a comprehensive and powerful project template for building web applications using React, Redux Toolkit, Mantine, and TypeScript. It provides a solid foundation and a set of tools to efficiently develop modern, scalable, and maintainable applications.
+This repository is a comprehensive and powerful project template for building web applications using React, Redux Toolkit, Material UI, and TypeScript. It provides a solid foundation and a set of tools to efficiently develop modern, scalable, and maintainable applications.
 
 * Key Features:
     * React: The project utilizes React, a popular JavaScript library for building user interfaces. React's component-based architecture allows for reusable and modular code, resulting in a more efficient development process.
     * Redux Toolkit: Redux Toolkit is a state management library that simplifies the management of application state in a predictable and efficient manner. It includes powerful tools like the Redux DevTools and creates a streamlined development experience.
-    * Mantine: Mantine is a modern and customizable React component library designed for building accessible and responsive UIs. It offers a rich set of prebuilt components, themes, and hooks, allowing developers to create visually appealing and highly functional applications.
+    * Material UI: Material UI is a modern and customizable React component library designed for building accessible and responsive UIs. It offers a rich set of prebuilt components, themes, and hooks, allowing developers to create visually appealing and highly functional applications.
     * TypeScript: The project is written in TypeScript, a statically typed superset of JavaScript. TypeScript enhances developer productivity by providing compile-time type checking, autocompletion, and better documentation, resulting in fewer runtime errors and improved code maintainability.
 
 ## Repository Structure:
@@ -22,6 +22,6 @@ The repository incorporates a testing framework, such as Jest or React Testing L
 
 ## Get Started:
 
-To begin using this repository, clone it to your local development environment and follow the provided documentation to set up the necessary dependencies. Once set up, you can start building your web application using the powerful combination of React, Redux Toolkit, Mantine, and TypeScript, leveraging the extensive features and tools provided by this template.
+To begin using this repository, clone it to your local development environment and follow the provided documentation to set up the necessary dependencies. Once set up, you can start building your web application using the powerful combination of React, Redux Toolkit, Material UI, and TypeScript, leveraging the extensive features and tools provided by this template.
 
-Whether you are developing a small-scale web application or a large-scale enterprise project, this React Redux Toolkit Mantine TypeScript repository empowers you to build highly performant, accessible, and maintainable applications with ease.
+Whether you are developing a small-scale web application or a large-scale enterprise project, this React Redux Toolkit Material UI TypeScript repository empowers you to build highly performant, accessible, and maintainable applications with ease.
